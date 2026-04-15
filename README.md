@@ -1,11 +1,11 @@
-# 👋 NoVanity
+#  NoVanity
 
 I was going to collect all this into a book and sell it, but nah.
 
 Donation links below if you want, you get the information either way.  
 ---
 
-### ☕ Support This Work
+###  Support This Work
 
 If these cheatsheets save you time, consider buying me a coffee.
 
@@ -24,7 +24,7 @@ If these cheatsheets save you time, consider buying me a coffee.
 
 ---
 
-### 📂 Projects
+### Projects
 
 Just waiting to release
 - Persistence
