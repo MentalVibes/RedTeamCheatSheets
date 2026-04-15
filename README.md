@@ -1,7 +1,8 @@
 # 👋 MentalVibes
 
-Offensive security researcher. Building comprehensive red team reference materials.
+I was going to collect all this into a book and sell it, but nah.
 
+Donation links below if you want, you get the information either way.  
 ---
 
 ### ☕ Support This Work
@@ -25,7 +26,11 @@ If these cheatsheets save you time, consider buying me a coffee.
 
 ### 📂 Projects
 
-- **Red Team Operator Codex** — Nation-state level TTP cheatsheets covering the full attack lifecycle
-- More coming...
-
+Just waiting to release
+- Persistence
+- Lateral Movement
+- AD Exploitation
+- Web Assessments
+- EDR bypasses
+- more...
 ---
