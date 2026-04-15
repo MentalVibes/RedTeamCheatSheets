@@ -1,4 +1,4 @@
-# 👋 MentalVibes
+# 👋 NoVanity
 
 I was going to collect all this into a book and sell it, but nah.
 
