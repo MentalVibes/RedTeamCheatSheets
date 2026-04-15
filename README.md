@@ -13,7 +13,7 @@ If these cheatsheets save you time, consider buying me a coffee.
 
 **Or scan:**
 
-<img src="https://raw.githubusercontent.com/MentalVibes/RedTeamCheatSheets/blob/main/qr-code.png" alt="Buy Me A Coffee QR" width="200">
+<img src="https://github.com/MentalVibes/RedTeamCheatSheets/blob/4077a94d94806ba6e6513c29e1410bcda23894d1/qr-code.png" alt="Buy Me A Coffee QR" width="200">
 
 **Crypto:**
 | Currency | Address |
